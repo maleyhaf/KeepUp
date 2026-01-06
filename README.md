@@ -21,7 +21,7 @@ KeepUp is a Flutter-based running app that gamifies your workouts by turning you
 - **Hive:** Local storage for run stats and profile data.
 - **Flutter Map + LatLong2:** Shows real-time location on a map with animated avatar sprites.
 
-## Authors and acknowledgment
+## Authors
 - **Maleyha Fatima**
 - **Maham Tariq**
 - **Mariam Al Fahed**
