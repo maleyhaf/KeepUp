@@ -45,6 +45,21 @@ KeepUp is a Flutter-based running app that gamifies your workouts by turning you
     <img src="assets/Home.png" alt="Home Screen" style="width: 200px; height: auto;"/>
   </div>
 
+   <div style="text-align: center; margin: 5px;">
+    <p>Game Over Screen</p>
+    <img src="assets/GameOver.png" alt="Game Screen" style="width: 200px; height: auto;"/>
+  </div>
+
+   <div style="text-align: center; margin: 5px;">
+    <p>Set Run Screen</p>
+    <img src="assets/SetRun.png" alt="Set Run Screen" style="width: 200px; height: auto;"/>
+  </div>
+
+   <div style="text-align: center; margin: 5px;">
+    <p>Profile Screen</p>
+    <img src="assets/Profile.png" alt="Home Screen" style="width: 200px; height: auto;"/>
+  </div>
+
 </div>
 
 
