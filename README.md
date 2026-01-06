@@ -2,7 +2,7 @@
 KeepUp is a Flutter-based running app that gamifies your workouts by turning your run into a survival-style experience. The app motivates you to maintain your target pace with real-time feedback, creepy music, and scary monster mechanics, making your runs both fun and intense.
 
 
-# Features 
+## Features 
 
 - **Set Goals:** Choose your target pace (min/km) and run duration.  
 - **Dynamic Motivation:** If your pace drops below the goal, creepy music plays in your headphones to push you to speed up.  
