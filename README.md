@@ -28,23 +28,24 @@ KeepUp is a Flutter-based running app that gamifies your workouts by turning you
 - **Arseny Matveev**
 
 ## User Interface 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
 
-  <div style="flex: 0 0 30%; text-align: center; margin: 5px;">
+  <div style="text-align: center; margin: 5px;">
     <p>Run Screen</p>
-    <img src="assets/Captured.png" alt="Run Screen" style="width: 100%; height: auto;"/>
+    <img src="assets/Captured.png" alt="Run Screen" style="width: 200px; height: auto;"/>
   </div>
 
-  <div style="flex: 0 0 30%; text-align: center; margin: 5px;">
+  <div style="text-align: center; margin: 5px;">
     <p>Stats Screen</p>
-    <img src="assets/Complete.png" alt="Stats Screen" style="width: 100%; height: auto;"/>
+    <img src="assets/Complete.png" alt="Stats Screen" style="width: 200px; height: auto;"/>
   </div>
 
-  <div style="flex: 0 0 30%; text-align: center; margin: 5px;">
+  <div style="text-align: center; margin: 5px;">
     <p>Home Screen</p>
-    <img src="assets/Home.png" alt="Home Screen" style="width: 100%; height: auto;"/>
+    <img src="assets/Home.png" alt="Home Screen" style="width: 200px; height: auto;"/>
   </div>
 
 </div>
+
 
 
